@@ -1,3 +1,5 @@
+![Fermente Mutfağım](https://github.com/fermentemutfagim/fermente-banner/blob/master/mutfak-480_172.png?raw=true)
+
 # Fermente Banner
 
 Fermente Mutfağım resmi logosunun çeşitli boylarda versiyonları ve üretimleri

@@ -19,6 +19,9 @@ için gerekli kaynak dosyalar.
 ### dukkan-240_105
 ![preview image](dukkan-240_105.png)
 
+### dukkan-240_97
+![preview image](dukkan-240_97.png)
+
 ### dukkan-360_157
 ![preview image](dukkan-360_157.png)
 
